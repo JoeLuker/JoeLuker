@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Luker 👋
 
-Data Engineer passionate about AI interpretability and building reliable, understandable AI systems.
+Data Engineer, but in my free time I'm ~obsessing~ passionately exploring AI interpretability.
 
 ## 🔬 Research Interests
 - Mechanistic interpretability of neural networks
@@ -13,4 +13,4 @@ Data Engineer passionate about AI interpretability and building reliable, unders
 - **[AONPRD-Parse]([link](https://github.com/JoeLuker/Vardon))**: High-performance async data pipeline demonstrating engineering expertise
 
 ## 💡 Philosophy
-I believe understanding *how* AI systems work internally is crucial for building safe, aligned AI. My work bridges practical engineering with theoretical understanding of neural computation.
+I believe understanding *how* AI systems work internally is crucial for building safe, aligned AI. My work bridges practical engineering with theoretical understanding of machine learning principles.
