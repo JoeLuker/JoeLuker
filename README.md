@@ -8,9 +8,9 @@ Data Engineer passionate about AI interpretability and building reliable, unders
 - Building tools for AI safety and alignment research
 
 ## 🛠️ Featured Projects
-- **[TEMPO](link)**: Novel approach to LLM inference exploring parallel token processing for interpretability
-- **[MI Experiments](link)**: Mechanistic interpretability research using representation engineering
-- **[AONPRD-Parse](link)**: High-performance async data pipeline demonstrating engineering expertise
+- **[TEMPO]([link](https://github.com/JoeLuker/tempo))**: Novel approach to LLM inference exploring parallel token processing for interpretability
+- **[Vardon]([link](https://github.com/JoeLuker/Vardon))**: Pathfinder 1e character engine (Work in Progress)
+- **[AONPRD-Parse]([link](https://github.com/JoeLuker/Vardon))**: High-performance async data pipeline demonstrating engineering expertise
 
 ## 💡 Philosophy
 I believe understanding *how* AI systems work internally is crucial for building safe, aligned AI. My work bridges practical engineering with theoretical understanding of neural computation.
