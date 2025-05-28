@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Joseph Luker 👋
 
-<!--
-**JoeLuker/JoeLuker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer passionate about AI interpretability and building reliable, understandable AI systems.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Mechanistic interpretability of neural networks
+- Understanding how language models represent and process information
+- Building tools for AI safety and alignment research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Featured Projects
+- **[TEMPO](link)**: Novel approach to LLM inference exploring parallel token processing for interpretability
+- **[MI Experiments](link)**: Mechanistic interpretability research using representation engineering
+- **[AONPRD-Parse](link)**: High-performance async data pipeline demonstrating engineering expertise
+
+## 💡 Philosophy
+I believe understanding *how* AI systems work internally is crucial for building safe, aligned AI. My work bridges practical engineering with theoretical understanding of neural computation.
